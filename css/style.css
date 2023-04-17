@@ -104,6 +104,10 @@
         margin: 0px !important;
     }
     
+    .nav-button {
+        color: white !important;
+    }
+    
     .contact-nav {
         margin-right: 0px;
     }
